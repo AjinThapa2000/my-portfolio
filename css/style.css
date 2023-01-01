@@ -1,0 +1,45 @@
+:root{
+    --primary: rgb(88,231,236);
+    --secondary:rgb(48,205,233);
+    --tertiary:blue;
+    --dark: rgb(17, 8, 8, 0.993);
+  
+  }
+
+/*Navigation bar and webpage logo display here */
+.customNav {
+    width: 100%;
+    background: white;
+    background-color: rgba(55, 58, 55, 0.836) !important;
+    background-size: cover;
+    z-index: 10;
+  }
+
+  .navbar-nav {
+    margin-left: auto;
+    margin-right: 0 !important;
+  }
+  .navbar-brand img {
+    width:100px;
+    
+  }
+  
+
+  .nav-item {
+    margin: 0px 15px;
+  }
+
+  .nav-item a {
+    color: white !important;
+    background-image: linear-gradient(275deg, var(--secondary) 0%, var(--secondary) 100%);
+    background-repeat: no-repeat;
+    text-decoration: none;
+    background-size: 100% 0.1em;
+    background-position: bottom;
+    transition: all 0.25s ease-in;
+  }
+
+  .nav-item a:hover{
+    background-size: 10% 0%;
+
+  }
