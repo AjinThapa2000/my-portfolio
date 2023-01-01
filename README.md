@@ -17,7 +17,7 @@ Image container
 
 #webpage-diployed-link
 
-https://ajinthapa2000.github.io/Bootstrap-Portfolio/
+https://ajinthapa2000.github.io/my-portfolio/
 
 #screenshot
 
