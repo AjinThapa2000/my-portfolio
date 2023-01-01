@@ -2,7 +2,7 @@
     --primary: rgb(88,231,236);
     --secondary:rgb(48,205,233);
     --tertiary:blue;
-    --dark: rgb(17, 8, 8, 0.993);
+    --red: rgba(247, 58, 58, 0.993);
   
   }
 
@@ -54,4 +54,10 @@
   .jumbotrn img{
     width: 400px;
     margin-top: 100px;
+  }
+
+  /*about me */
+  .customcon{
+    background-color: var(--red);
+    margin-top: 15px;
   }
